@@ -39,7 +39,7 @@ Currently I'm Learning Python Programming Language :)
 <!--START_SECTION:waka-->
 ```text
 Python      7 Hours          █████████████████████   73.17 % 
-HTML        1 Hours          ███████   27.82 % 
+HTML        1 Hours          ███   27.82 % 
 ```
 <!--END_SECTION:waka-->
 
