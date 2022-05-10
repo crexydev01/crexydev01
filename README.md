@@ -6,7 +6,7 @@
 🔗 &nbsp;**Connect with me**
 <p align="left">
 </a>
-<a href="https://www.instagram.com/crexy.dev/">
+<a href="https://www.instagram.com/eralp.resit/">
   <img align="left" alt="Crexy's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 
 
